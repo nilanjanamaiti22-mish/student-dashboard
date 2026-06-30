@@ -18,15 +18,6 @@ trends, at-risk students, and grade distribution.
 - Streamlit (web app framework)
 - Plotly (interactive charts)
 
-## How to run locally
-```bash
-pip install streamlit pandas plotly
-streamlit run app.py
-```
-
-## Live Demo
-[Add your Streamlit Cloud link here once deployed]
-
 ## About
 Built by Nilanjana Maiti, a Computer Science educator exploring data 
 analysis and dashboard development.
